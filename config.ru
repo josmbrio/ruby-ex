@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome FAVOURITE</h1>
+            <h1>Welcome FAVOURITE BUILD</h1>
           </hgroup>
 
 
